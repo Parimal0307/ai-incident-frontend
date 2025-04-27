@@ -64,7 +64,7 @@ http://localhost:5173
 ## ⚠️ Note
 
 - If you encounter this Error:
-![Error Image](./src/assets/errorImg.jpg)
+![Error Image](.ai-incident-frontend/frontend/src/assets/errorImg.jpg)
 
 * Delete the `node_modules` folder.
 * Then run 
